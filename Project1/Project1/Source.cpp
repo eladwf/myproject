@@ -1,8 +1,11 @@
 #include<iostream>
-
+using namespace std;
 
 void main()
 {
-	std::cout << "hi world" << std::endl;
+	cout << "hi world" << endl;
+	cout<<"hello form git"<<endl;
+	
+	
 
 }
